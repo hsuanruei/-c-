@@ -33,7 +33,7 @@ int main(){
 	std::cout << "state : " << state << std::endl; 
 	
 	//auto type deduction
-	//Careful about auto assigments
+	//Careful about auto assignments
 	auto var3 {333u};//declare & initialize with type deduction
 	
 	var3 = -22;//assign negative number, DANGER!
