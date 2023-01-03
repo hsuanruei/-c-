@@ -32,7 +32,6 @@ int main(){
 	 
 	std::cout << "state : " << state << std::endl; 
 	
-	
 	//auto type deduction
 	//Careful about auto assigments
 	auto var3 {333u};//declare & initialize with type deduction
@@ -41,10 +40,6 @@ int main(){
 	
 	std::cout << "var3 : " << var3 << std::endl;
 	 
-	 
-	 
-	 
-	
 	return 0;
 	
 }
