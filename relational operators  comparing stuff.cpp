@@ -28,9 +28,5 @@ int main(){
     
     std::cout << number1 << " == " <<number2 <<" : " << result << std::endl;
     
-    
     return 0;
-    
-    
-    
 }
